@@ -1,6 +1,6 @@
-# LearnHub – Online Learning Platform (MERN Stack)
+# SkillStack:Learn and Grow – Online Learning Platform (MERN Stack)
 
-**LearnHub** is a full-stack online learning platform (OLP) developed using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It offers a scalable, responsive, and user-friendly experience for students, teachers, and administrators to manage and engage with educational content seamlessly.
+**SkillStack** is a full-stack online learning platform (OLP) developed using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It offers a scalable, responsive, and user-friendly experience for students, teachers, and administrators to manage and engage with educational content seamlessly.
 
 ## Key Features
 
@@ -70,6 +70,4 @@ npm install
 npm start
 ```
 
-## Demo Link
 
-https://drive.google.com/file/d/1q6X1rG0WTpSlsfoq-y75QU_797gu7oEv/view?usp=drive_link
